@@ -1,0 +1,40 @@
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans.php on line 56
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans.php on line 61
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans.php on line 64
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$biolink_blocks_limit in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 9
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$biolink_blocks_limit in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 9
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$qr_codes_limit in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 27
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$qr_codes_limit in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 27
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$track_links_retention in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 72
+[25-May-2022 17:13:09 UTC] PHP Warning:  Undefined property: stdClass::$track_links_retention in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 72
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$dofollow_is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 77
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$dofollow_is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 81
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 77
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 81
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$custom_js_is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 77
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$custom_js_is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\plans_plan_content.php on line 81
+[25-May-2022 17:13:10 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in C:\xampp\htdocs\zlink\themes\altum\views\partials\menu.php on line 34
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$contact in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 55
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 59
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$users_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:10 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\cookie_consent.php on line 3
+[25-May-2022 17:13:15 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in C:\xampp\htdocs\zlink\themes\altum\views\partials\menu.php on line 34
+[25-May-2022 17:13:15 UTC] PHP Warning:  Undefined property: stdClass::$contact in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 55
+[25-May-2022 17:13:15 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 59
+[25-May-2022 17:13:15 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:15 UTC] PHP Warning:  Undefined property: stdClass::$users_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:15 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\cookie_consent.php on line 3
+[25-May-2022 17:13:18 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in C:\xampp\htdocs\zlink\themes\altum\views\partials\menu.php on line 34
+[25-May-2022 17:13:18 UTC] PHP Warning:  Undefined property: stdClass::$contact in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 55
+[25-May-2022 17:13:18 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 59
+[25-May-2022 17:13:18 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:18 UTC] PHP Warning:  Undefined property: stdClass::$users_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:18 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\cookie_consent.php on line 3
+[25-May-2022 17:13:24 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in C:\xampp\htdocs\zlink\themes\altum\views\partials\menu.php on line 34
+[25-May-2022 17:13:24 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in C:\xampp\htdocs\zlink\themes\altum\views\partials\menu.php on line 59
+[25-May-2022 17:13:24 UTC] PHP Warning:  Undefined property: stdClass::$contact in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 55
+[25-May-2022 17:13:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\footer.php on line 59
+[25-May-2022 17:13:24 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:24 UTC] PHP Warning:  Undefined property: stdClass::$users_content in C:\xampp\htdocs\zlink\themes\altum\views\partials\announcements.php on line 4
+[25-May-2022 17:13:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in C:\xampp\htdocs\zlink\themes\altum\views\partials\cookie_consent.php on line 3
